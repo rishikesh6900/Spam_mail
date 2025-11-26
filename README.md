@@ -50,7 +50,6 @@ Model is evaluated using:
 
 - **Accuracy Score**
 - **Confusion Matrix**
-- **Precision, Recall, F1-score**
 
 ---
 
